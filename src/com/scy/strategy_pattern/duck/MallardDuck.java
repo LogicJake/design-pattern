@@ -1,7 +1,7 @@
-package com.scy.duck;
+package com.scy.strategy_pattern.duck;
 
-import com.scy.duck.fly.FlyWithWings;
-import com.scy.duck.quack.Quack;
+import com.scy.strategy_pattern.fly.FlyWithWings;
+import com.scy.strategy_pattern.quack.Quack;
 
 public class MallardDuck extends Duck {
 	public MallardDuck() {

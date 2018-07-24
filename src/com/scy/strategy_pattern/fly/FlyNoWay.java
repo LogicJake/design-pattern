@@ -1,9 +1,9 @@
-package com.scy.duck.fly;
+package com.scy.strategy_pattern.fly;
 
 public class FlyNoWay implements FlyBehavior {
 	
 	@Override
 	public void fly() {
-		System.out.println("I can not fly!");
+		System.out.println("I can't fly!");
 	}
 }
