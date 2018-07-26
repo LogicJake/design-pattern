@@ -1,4 +1,4 @@
-package com.scy.observer_pattern.Interface;
+package com.scy.observer.Interface;
 
 public interface DisplayElement {
 	public void display();

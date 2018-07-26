@@ -1,9 +1,9 @@
-package com.scy.observer_pattern;
+package com.scy.observer;
 
 import java.util.ArrayList;
 
-import com.scy.observer_pattern.Interface.Observer;
-import com.scy.observer_pattern.Interface.Subject;
+import com.scy.observer.Interface.Observer;
+import com.scy.observer.Interface.Subject;
 
 public class WeatherData implements Subject {
 	private ArrayList<Observer> observers;

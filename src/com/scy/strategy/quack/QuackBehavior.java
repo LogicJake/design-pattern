@@ -1,4 +1,4 @@
-package com.scy.strategy_pattern.quack;
+package com.scy.strategy.quack;
 
 public interface QuackBehavior {
 	public void quack();

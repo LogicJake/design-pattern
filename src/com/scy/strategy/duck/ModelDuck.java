@@ -1,7 +1,7 @@
-package com.scy.strategy_pattern.duck;
+package com.scy.strategy.duck;
 
-import com.scy.strategy_pattern.fly.FlyNoWay;
-import com.scy.strategy_pattern.quack.Quack;
+import com.scy.strategy.fly.FlyNoWay;
+import com.scy.strategy.quack.Quack;
 
 public class ModelDuck extends Duck{
 

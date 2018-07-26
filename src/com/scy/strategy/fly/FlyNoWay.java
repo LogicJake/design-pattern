@@ -1,4 +1,4 @@
-package com.scy.strategy_pattern.fly;
+package com.scy.strategy.fly;
 
 public class FlyNoWay implements FlyBehavior {
 	

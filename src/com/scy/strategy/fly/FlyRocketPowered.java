@@ -1,9 +1,9 @@
-package com.scy.strategy_pattern.fly;
+package com.scy.strategy.fly;
 
 public class FlyRocketPowered implements FlyBehavior {
 	
 	@Override
 	public void fly() {
-		System.out.println("I¡¯m flying with a rocket!");
+		System.out.println("Iï¿½ï¿½m flying with a rocket!");
 	}
 }

@@ -1,4 +1,4 @@
-package com.scy.observer_pattern;
+package com.scy.observer;
 
 public class WeatherStation {
 	public static void main(String[] args) {
