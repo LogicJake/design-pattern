@@ -33,3 +33,4 @@
 # 工厂模式
 * [简单工厂模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/factory/simplyFactor)
 * [工厂方法模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/factory/factoryMethod)
+* [抽象工厂模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/factory/abstractFactory)
