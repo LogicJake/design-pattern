@@ -10,4 +10,5 @@
 * [单例模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/singleton)
 * [命令模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/command)
 * [适配器模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/adapter)
+* [外观模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/facade)
 * [模板方法模式](https://github.com/LogicJake/design-pattern/tree/master/src/com/scy/templatemethod)
